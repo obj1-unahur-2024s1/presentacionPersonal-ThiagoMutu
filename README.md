@@ -1,35 +1,23 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# ProgramaciÛn con objetos I
-
-En esta materia aprender·n sobre la famosa POO _(OOP en inglÈs)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
-
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
-
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisiÛn 1 **turno noche**: Martes 18 a 22hs y S·bado 10 a 12hs.
-* Horario comisiÛn 2 **turno maÒana**: MiÈrcoles 8 a 12hs y S·bado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo Gonz·lez Tulian, Lucas Spigariol, Cristian Ciarallo y Hern·n Coniglio
-* Adem·s nos acompaÒan como colaboradores Valentino Chiappanni, Manuel NuÒez y Lucian Coniglio.
-
-## Links importantes :monocle_face:
-- [x] [P·gina principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
+## Acerca de m√≠ :octocat:
+Mi nombre es Thiago Mutuverr√≠a, vivo en Mor√≥n y tengo 20 a√±os.
+Termin√© el secundario en 2021 y luego de un a√±o de mucho pensarlo me anote en la tecnicatura en programaci√≥n.
+Este es mi segundo a√±o de cursada y me siento super c√≥modo en el entorno que ofrece la universidad para el aprendizaje y la formaci√≥n de los alumnos.
 
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+## Gustos y hobbies :paintbrush: :desktop_computer:
+* Entre mis hobbies favoritos se encuentra todo lo relacionado al dibujo y pintura, desde lo tradicional con papel y lapiz, acrilicos, acuarela, fibras, hasta el arte digital en computadora y otros dispositivos.
+* Tambi√©n me gusta ver series y peliculas, mayormente de ciencia ficci√≥n, suspenso o drama.
+* Me gusta jugar videojuegos, por lo general con amigos aunque a veces tambi√©n solo.
+* Escucho m√∫sica la mayor parte del d√≠a de g√©neros y artistas variados aunque en la actualidad escucho mayormente a Emilia y Lana del Rey.
+* Otra cosa que me interesa mucho son las manualidades como origamis, macrame o crochet.
+* Me gusta aprender cosas nuevas y llego al punto de obsesionarme con ciertos temas o actividades en los primeros d√≠as de aprendizaje para despu√©s dejarlos como hobbies secundarios.
 
-* [GuÌa R‡pida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglÈs)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+## Datos random :man_shrugging:
+* Suelo ser serio, distante y frio con las personas nuevas pero al tomar confianza me transformo en todo lo contrario.
+* Me gustan las series y peliculas de Marvel y mi personaje favorito es wanda maximoff/la bruja escarlata.
+* Me gusta tomarme mi tiempo para tomar apuntes prolijos y bonitos.
+* Soy perfeccionista y aunque sea algo que no me gusta suele traer buenos resultados.
+* Mi signo zodical es capricornio y cumplo a√±os el 24 de diciembre.
+* Mi color favorito es el verde sage.
